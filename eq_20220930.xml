@@ -1,0 +1,1337 @@
+<?xml version="1.0" ?>
+<Data>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Acarix_SE0009268717</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Acarix_SE0009268717</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0009268717_SEK_XSTO</id>
+			</id>
+			<nominal>169750</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Acast_SE0015960935</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Acast_SE0015960935</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0015960935_SEK_XSTO</id>
+			</id>
+			<nominal>75000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Africa Oil_CA00829Q1019</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Africa Oil_CA00829Q1019</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>CA00829Q1019_SEK_XSTO</id>
+			</id>
+			<nominal>1000000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Alligator Bioscience_SE0000767188</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Alligator Bioscience_SE0000767188</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0000767188_SEK_XSTO</id>
+			</id>
+			<nominal>160067</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Angler Gaming_MT0000650102</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Angler Gaming_MT0000650102</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>MT0000650102_SEK_XSTO</id>
+			</id>
+			<nominal>1133333</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Aspire Group_MT0001530105</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Aspire Group_MT0001530105</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>MT0001530105_SEK_XSTO</id>
+			</id>
+			<nominal>299500</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>BESQ AB_SE0005991411</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>BESQ AB_SE0005991411</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0005991411_SEK_XSTO</id>
+			</id>
+			<nominal>149507</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Betsson B_SE0015672282</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Betsson B_SE0015672282</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0015672282_SEK_XSTO</id>
+			</id>
+			<nominal>4018886</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Boliden_SE0015811559</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Boliden_SE0015811559</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0015811559_SEK_XSTO</id>
+			</id>
+			<nominal>500000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Careium_SE0017131824</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Careium_SE0017131824</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0017131824_SEK_XSTO</id>
+			</id>
+			<nominal>150000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Catena_SE0001664707</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Catena_SE0001664707</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0001664707_SEK_XSTO</id>
+			</id>
+			<nominal>250000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Checkin.com Group_SE0015810502</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Checkin.com Group_SE0015810502</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0015810502_SEK_XSTO</id>
+			</id>
+			<nominal>20000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Circhem_SE0015193529</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Circhem_SE0015193529</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0015193529_SEK_XSTO</id>
+			</id>
+			<nominal>12923</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>C-Rad B_SE0002016352</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>C-Rad B_SE0002016352</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0002016352_SEK_XSTO</id>
+			</id>
+			<nominal>3924969</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Doro_SE0000215493</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Doro_SE0000215493</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0000215493_SEK_XSTO</id>
+			</id>
+			<nominal>150000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Duearity_SE0015949482</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Duearity_SE0015949482</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0015949482_SEK_XSTO</id>
+			</id>
+			<nominal>44365</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Embracer Group_SE0016828511</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Embracer Group_SE0016828511</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0016828511_SEK_XSTO</id>
+			</id>
+			<nominal>1000000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Endomines_SE0008294334</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Endomines_SE0008294334</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0008294334_SEK_XSTO</id>
+			</id>
+			<nominal>1414400</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Eolus Vind B_SE0007075056</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Eolus Vind B_SE0007075056</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0007075056_SEK_XSTO</id>
+			</id>
+			<nominal>46125</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Ericsson B_SE0000108656</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Ericsson B_SE0000108656</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0000108656_SEK_XSTO</id>
+			</id>
+			<nominal>3000000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Euroafrica Digital Ventures_SE0015660345</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Euroafrica Digital Ventures_SE0015660345</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0015660345_SEK_XSTO</id>
+			</id>
+			<nominal>11475</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Evolution Gaming Group_SE0012673267</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Evolution Gaming Group_SE0012673267</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0012673267_SEK_XSTO</id>
+			</id>
+			<nominal>405845</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Fantasma_SE0015557053</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Fantasma_SE0015557053</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0015557053_SEK_XSTO</id>
+			</id>
+			<nominal>110685</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>First Venture Sweden B_SE0016075451</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>First Venture Sweden B_SE0016075451</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0016075451_SEK_XSTO</id>
+			</id>
+			<nominal>1025000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Footway Group B _SE0011563295</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Footway Group B _SE0011563295</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0011563295_SEK_XSTO</id>
+			</id>
+			<nominal>5071428</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Footway Group pref_SE0007186176</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Footway Group pref_SE0007186176</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0007186176_SEK_XSTO</id>
+			</id>
+			<nominal>150000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Fractal Gaming Group _SE0015504477</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Fractal Gaming Group _SE0015504477</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0015504477_SEK_XSTO</id>
+			</id>
+			<nominal>50000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Gaming Corps_SE0014694691</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Gaming Corps_SE0014694691</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0014694691_SEK_XSTO</id>
+			</id>
+			<nominal>6707317</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Hoist finance_SE0006887063</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Hoist finance_SE0006887063</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0006887063_SEK_XSTO</id>
+			</id>
+			<nominal>4650000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Husqvarna B_SE0001662230</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Husqvarna B_SE0001662230</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0001662230_SEK_XSTO</id>
+			</id>
+			<nominal>1000000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>International Petroleum Corp._CA46016U1084</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>International Petroleum Corp._CA46016U1084</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>CA46016U1084_SEK_XSTO</id>
+			</id>
+			<nominal>32120</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>John Mattson_SE0012481364</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>John Mattson_SE0012481364</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0012481364_SEK_XSTO</id>
+			</id>
+			<nominal>500000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Kambi Group Plc_MT0000780107</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Kambi Group Plc_MT0000780107</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>MT0000780107_SEK_XSTO</id>
+			</id>
+			<nominal>1000000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Karo Pharma_SE0007464888</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Karo Pharma_SE0007464888</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0007464888_SEK_XSTO</id>
+			</id>
+			<nominal>212019</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Krona Public Real Estate_SE0015657895</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Krona Public Real Estate_SE0015657895</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0015657895_SEK_XSTO</id>
+			</id>
+			<nominal>250000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Medivir B_SE0000273294</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Medivir B_SE0000273294</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0000273294_SEK_XSTO</id>
+			</id>
+			<nominal>1044280</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Midsummer_SE0011281757</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Midsummer_SE0011281757</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0011281757_SEK_XSTO</id>
+			</id>
+			<nominal>40000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>MOFAST_SE0012596120</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>MOFAST_SE0012596120</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0012596120_SEK_XSTO</id>
+			</id>
+			<nominal>224632</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Nordnet_SE0015192067</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Nordnet_SE0015192067</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0015192067_SEK_XSTO</id>
+			</id>
+			<nominal>13700</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Nyfosa_SE0011426428</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Nyfosa_SE0011426428</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0011426428_SEK_XSTO</id>
+			</id>
+			<nominal>12500</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Qliro_SE0013719077</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Qliro_SE0013719077</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0013719077_SEK_XSTO</id>
+			</id>
+			<nominal>542726</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Real Fastigheter B_SE0007922885</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Real Fastigheter B_SE0007922885</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0007922885_SEK_XSTO</id>
+			</id>
+			<nominal>2843668430</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Samhällsbyggnadsbolag I_SE0009554454</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Samhällsbyggnadsbolag I_SE0009554454</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0009554454_SEK_XSTO</id>
+			</id>
+			<nominal>2000000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>SAS_SE0003366871</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>SAS_SE0003366871</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0003366871_SEK_XSTO</id>
+			</id>
+			<nominal>11000000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Scout gaming group_SE0010521153</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Scout gaming group_SE0010521153</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0010521153_SEK_XSTO</id>
+			</id>
+			<nominal>490000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Semcon_SE0000379497</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Semcon_SE0000379497</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0000379497_SEK_XSTO</id>
+			</id>
+			<nominal>50000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>SenzaGen_SE0010219626</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>SenzaGen_SE0010219626</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0010219626_SEK_XSTO</id>
+			</id>
+			<nominal>100000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Serneke Group B_SE0007278841</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Serneke Group B_SE0007278841</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0007278841_SEK_XSTO</id>
+			</id>
+			<nominal>10000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Solid Försäkring_SE0017082548</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Solid Försäkring_SE0017082548</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0017082548_SEK_XSTO</id>
+			</id>
+			<nominal>420000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>SSAB A_SE0000171100</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>SSAB A_SE0000171100</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0000171100_SEK_XSTO</id>
+			</id>
+			<nominal>4000000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>SSAB B_SE0000120669</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>SSAB B_SE0000120669</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0000120669_SEK_XSTO</id>
+			</id>
+			<nominal>4000000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Stora Enso R_FI0009007611</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Stora Enso R_FI0009007611</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>FI0009007611_SEK_XSTO</id>
+			</id>
+			<nominal>100000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Studentbostäder i norden_SE0015657697</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Studentbostäder i norden_SE0015657697</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0015657697_SEK_XSTO</id>
+			</id>
+			<nominal>14500000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Telia Company_SE0000667925</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Telia Company_SE0000667925</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0000667925_SEK_XSTO</id>
+			</id>
+			<nominal>300000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Tethys Oil_SE0015949847</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Tethys Oil_SE0015949847</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0015949847_SEK_XSTO</id>
+			</id>
+			<nominal>60000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>VNV Global_SE0014428835</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>VNV Global_SE0014428835</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0014428835_SEK_XSTO</id>
+			</id>
+			<nominal>275000</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Wästbygg Gruppen B_SE0014453874</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Wästbygg Gruppen B_SE0014453874</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0014453874_SEK_XSTO</id>
+			</id>
+			<nominal>75373</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+	<pos>
+		<pf>
+			<upload_date>2022-06-30</upload_date>
+			<customer_id>SVEA Bank</customer_id>
+			<portfolio>Assets_equities_listed</portfolio>
+			<id>Zignsec_SE0012930105</id>
+			<system>Excel</system>
+			<type>equity</type>
+			<trader>svea</trader>
+		</pf>
+		<equity>
+			<name>Zignsec_SE0012930105</name>
+			<id>
+				<type>ARMS_SERIES</type>
+				<id>SE0012930105_SEK_XSTO</id>
+			</id>
+			<nominal>22387</nominal>
+			<currency>SEK</currency>
+		</equity>
+		<classification>
+			<Client_instrument_type>EQUITY</Client_instrument_type>
+		</classification>
+	</pos>
+</Data>
